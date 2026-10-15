@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard that answers three questions: where does the profit come from, which property types earn the most, and who drives sales.
 
-![Dashboard](screenshots/dashboard.png)
 
 ## Key findings
 - 252M in sales, 157M in cost and 95M in profit, a 37.8% margin
